@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目安全清理"
+  short_description: "核对运行与构建依赖，验证项目完整性后清理临时文件和残留产物"
+  default_prompt: "使用 $project-safe-cleanup 检查当前项目的残留文件，验证不会影响运行与构建后，执行已确认安全的清理并报告结果。"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "项目文档改写与发布约定"
+  short_description: "面向首次读者改写项目文档，核对当前能力、用途命名、链接与 Git 边界"
+  default_prompt: "使用 $project-docs-release 将本项目 README 与使用文档整理为面向首次读者的说明，按当前源码核对功能、入口和运行方法，并按本次授权处理命名、链接与 Git。"

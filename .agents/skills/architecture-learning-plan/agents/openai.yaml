@@ -1,0 +1,4 @@
+interface:
+  display_name: "架构与工程设计学习规划"
+  short_description: "以项目架构、设计取舍和证据为核心，由 coding agent 辅助查证与实验"
+  default_prompt: "使用 $architecture-learning-plan，为当前项目制定架构与工程设计优先的学习计划，代码与实验由 coding agent 辅助完成。"
